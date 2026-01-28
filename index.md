@@ -61,5 +61,5 @@
 scais.info [atmark] gmail.com
 
 ## SCAIS2026実行委員
-須賀 祐治（IIJ），林 卓也（Acompany），木藤 圭亮（三菱電機），高橋 順子（NTT）<br>
+須賀 祐治（IIJ），林 卓也（Acompany），木藤 圭亮，高橋 順子（NTT）<br>
 矢内 直人（パナソニックホールディングス），国井 裕樹（セコム），小林 信博（長崎県立大学），木村 隼人（NICT/大阪大学）
